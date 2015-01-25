@@ -1,0 +1,11 @@
+{
+  "name": "easing-ordering",
+  "devDependencies": {
+    "zepto": "*",
+    "backbone":"*",
+    "backbone.localStorage": "*",
+    "iscroll":"*",
+    "font-awesome": "*",
+    "semantic-ui": "*"
+  }
+}

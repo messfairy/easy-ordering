@@ -1,0 +1,17 @@
+{
+  "name": "easy-ordering",
+  "version": "0.0.1",
+  "license": "CC BY-NC 3.0",
+  "author": "Messfairy Storm <messfairy@gmail.com>",
+  "description": "供销商订货系统",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/messfairy/easy-ordering.git"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {
+
+  }
+}
